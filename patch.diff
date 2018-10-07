@@ -1,0 +1,22 @@
+From 9d4515e6e6803a4864bd638a0643eb0de117544f Mon Sep 17 00:00:00 2001
+From: Jiravan <bigbirth@hotmail.com>
+Date: Sun, 7 Oct 2018 22:27:48 +0700
+Subject: [PATCH] chnage readme.md
+
+---
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/README.md b/README.md
+index 02a48ac..d0b1aa3 100644
+--- a/README.md
++++ b/README.md
+@@ -2,4 +2,5 @@
+ first repository
+ ABC
+ DEF
++XYZ
+ 
+-- 
+2.18.0.windows.1
+
